@@ -1,11 +1,9 @@
 Learn Git ----Liao Xuefeng's Course  
-rely on Ubuntu18.04 ,here are the steps for creating a remote warehouse 
-Generating SSH keys and append public_key to github's SSH KEYS
-1. ` $ ssh-keygen -t rsa  -C "your_email@example.com"`
- //it will be generate at ~/.ssh
-2. Add SSH Key to github
- //SSH Key located at ~/.ssh/id_rsa.pub
-Adding your local warehouse to remotes 
+rely on Ubuntu18.04 ,here are the steps for creating a remote warehouse   
+##Generating SSH keys and append public_key to github's SSH KEYS
+1. ` $ ssh-keygen -t rsa  -C "your_email@example.com"` //it will be generate at ~/.ssh
+2. Add SSH Key to github //SSH Key located at ~/.ssh/id_rsa.pub  
+##Adding your local warehouse to remotes 
 1. mkdir learngit
 2. echo "# test" >> README.md
 3. git init
