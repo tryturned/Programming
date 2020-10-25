@@ -14,6 +14,3 @@ rely on Ubuntu18.04 ,here are the steps for creating a remote warehouse
 >to be highly successful  
 after committing local files ,we can make use of command 'git push origin master' directly
 to push it out.
-
-
-ABtest>>>>>>>>>>>>>>>>>>>>>>>

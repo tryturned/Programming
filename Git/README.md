@@ -4,5 +4,5 @@
 ***
 Git参考书籍：  
 [Pro Git 中文版](http://iissnan.com/progit/)  
-[stromzhang's Git](https://github.com/tryturned/learngit/tree/master/Git_Book)  
+[stromzhang's Git](./Git_Book/Learn_the_GitHub_series.pdf)  
 
