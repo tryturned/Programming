@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-10-29 17:03:55
+ * @LastEditTime: 2020-10-29 20:56:56
 -->
 # 目录
 ## 必读系列  
@@ -13,7 +13,8 @@
 
 [二叉树的右视图](./code/rightSideView.cpp)    
 
-[求根到叶子节点数字之和](./code/sumNumbers.cpp)
+[求根到叶子节点数字之和](./code/sumNumbers.cpp)  
 
+[Z 字形变换](./code/convertZshp.md)  
 # 参考
 [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)  
