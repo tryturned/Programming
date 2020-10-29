@@ -1,15 +1,15 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-10-29 08:34:36
+ * @LastEditTime: 2020-10-29 11:36:26
 -->
 # 目录
 - 必读系列  
 [区间相关的问题](./区间问题.md)  
 
 - 编码  
-[字符串转换整数 (atoi)](./myAtoi.cpp)
-
+[字符串转换整数 (atoi)](./code/myAtoi.cpp)
+[二叉树的右视图](./code/)
 
 # 参考
 [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)  
