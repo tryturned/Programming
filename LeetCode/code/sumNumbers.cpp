@@ -1,7 +1,7 @@
 /*
  * @Author: taobo
- * @Date: 2020-10-29 11:36:46
- * @LastEditTime: 2020-10-29 12:09:52
+ * @Date: 2020-10-29 12:08:43
+ * @LastEditTime: 2020-10-29 12:10:35
  */
 #include <iostream>
 #include <algorithm>
@@ -27,17 +27,8 @@ public:
       res->right = constructTree(nums, 2*root+2);
       return res;
     }
-    void dfs(TreeNode* root ,vector<int>& res, int depth) {
-        if (!root) return;
-        if (depth == res.size()) res.push_back(root->val);
-        depth++;
-        dfs(root->right, res, depth);
-        dfs(root->left, res, depth);
-    }
-    vector<int> rightSideView(TreeNode* root) {
-        vector<int> res;
-        dfs(root, res, 0);
-        return res;
+    int sumNumbers(TreeNode* root) {
+        
     }
 };
 
@@ -45,8 +36,7 @@ int main() {
   vector<int> nums = {1,5,6,7,8,9,10,4,8,-1,-1,-1,-1,8,9};
   Solution object;
   TreeNode* root = object.constructTree(nums, 0);
-  vector<int> res = object.rightSideView(root);
-  for (int& v: res) cout << v << ' ';
-  cout << '\n';
+  int res = object.sumNumbers(root);
+  cout << res << '\n';
   return 0;
 }
