@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-10-28 11:52:16
+ * @LastEditTime: 2020-10-29 08:34:36
 -->
 # 目录
 - 必读系列  
@@ -10,3 +10,6 @@
 - 编码  
 [字符串转换整数 (atoi)](./myAtoi.cpp)
 
+
+# 参考
+[labuladong的算法小抄](https://labuladong.gitbook.io/algo/)  
