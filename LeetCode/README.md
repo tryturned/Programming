@@ -1,11 +1,13 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-10-29 20:56:56
+ * @LastEditTime: 2020-10-31 14:56:25
 -->
 # 目录
 ## 必读系列  
 [区间相关的问题](./区间问题.md)  
+
+[寻找重复的子树](./findDuplicateSubtrees.md)
 
 ## 编码  
 
