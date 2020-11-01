@@ -1,13 +1,15 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-10-31 14:56:25
+ * @LastEditTime: 2020-11-01 15:19:18
 -->
 # 目录
 ## 必读系列  
-[区间相关的问题](./区间问题.md)  
+[区间相关的问题](./markdown/区间问题.md)  
 
-[寻找重复的子树](./findDuplicateSubtrees.md)
+[寻找重复的子树](./markdown/findDuplicateSubtrees.md)  
+
+[编辑距离](./markdown/minDistance.md)  
 
 ## 编码  
 
