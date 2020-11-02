@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-11-01 15:19:18
+ * @LastEditTime: 2020-11-02 22:20:55
 -->
 # 目录
 ## 必读系列  
@@ -19,6 +19,9 @@
 
 [求根到叶子节点数字之和](./code/sumNumbers.cpp)  
 
-[Z 字形变换](./code/convertZshp.md)  
+[Z 字形变换](./code/convertZshp.md)    
+
+[两个数组的交集](./code/intersection.py)  
+
 # 参考
 [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)  
