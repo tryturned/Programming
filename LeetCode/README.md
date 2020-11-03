@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-11-02 22:20:55
+ * @LastEditTime: 2020-11-03 14:44:30
 -->
 # 目录
 ## 必读系列  
@@ -21,7 +21,9 @@
 
 [Z 字形变换](./code/convertZshp.md)    
 
-[两个数组的交集](./code/intersection.py)  
+[两个数组的交集](./code/intersection.py)    
+
+[最长公共子序列](./code/lcs.py)
 
 # 参考
 [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)  
