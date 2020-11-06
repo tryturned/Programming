@@ -1,7 +1,7 @@
 /*
  * @Author: taobo
  * @Date: 2020-11-04 20:59:04
- * @LastEditTime: 2020-11-04 21:25:14
+ * @LastEditTime: 2020-11-05 17:21:51
  */
 #include <bits/stdc++.h>
 using namespace std;
@@ -23,6 +23,7 @@ public:
         if (maps.count(k)) {
             nodes.erase(maps[k]);
             nodes.emplace_front(k, v);
+            maps[k] = nodes.begin();
         } else {
             if (capacity_ == n) {
                 maps.erase((nodes.back()).key);
