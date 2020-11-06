@@ -1,7 +1,7 @@
 /*
  * @Author: taobo
  * @Date: 2020-11-05 16:58:09
- * @LastEditTime: 2020-11-05 17:15:41
+ * @LastEditTime: 2020-11-06 17:10:16
  */
 #include <iostream>
 #include <mutex>
@@ -27,9 +27,6 @@ public:
         m_data.push_back(m_N);
       }
       m_cv.notify_all();
-      cout << "Produce data " << m_N << '\n';
-      std::chrono::milliseconds times(1000);
-      std::this_thread::sleep_for(times);
     }
   }
 
@@ -41,11 +38,8 @@ public:
         while(m_data.empty()) {
           m_cv.wait(lck);
         }
-        cout << "Consume data " << m_data.front() << '\n';
         m_data.pop_front();
       }
-      std::chrono::milliseconds times(100);
-      std::this_thread::sleep_for(times);
     }
   }
 public:
