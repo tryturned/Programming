@@ -1,8 +1,3 @@
-/*
- * @Author: taobo
- * @Date: 2020-10-28 11:41:11
- * @LastEditTime: 2020-11-06 18:01:25
- */
 #include <bits/stdc++.h>
 using namespace std;
 
