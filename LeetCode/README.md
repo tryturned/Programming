@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-11-09 18:51:08
+ * @LastEditTime: 2020-11-09 18:55:37
 -->
 # 目录
 ## 必读系列  
@@ -9,11 +9,11 @@
 
 [滑动窗口系列问题](./markdown/SlidingWindow.md)
 
-[动态规划背包问题](./knapsack.md)
+[动态规划背包问题](./markdown/knapsack.md)
 
-[寻找重复的子树](./markdown/findDuplicateSubtrees.md)  
+[寻找重复子树问题](./markdown/findDuplicateSubtrees.md)  
 
-[编辑距离](./markdown/minDistance.md)  
+[动态规划编辑距离](./markdown/minDistance.md)  
 
 ## 编码  
 
