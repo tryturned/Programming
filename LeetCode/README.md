@@ -1,13 +1,15 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-11-08 11:06:41
+ * @LastEditTime: 2020-11-09 18:51:08
 -->
 # 目录
 ## 必读系列  
 [区间相关系列问题](./markdown/区间问题.md)  
 
 [滑动窗口系列问题](./markdown/SlidingWindow.md)
+
+[动态规划背包问题](./knapsack.md)
 
 [寻找重复的子树](./markdown/findDuplicateSubtrees.md)  
 
