@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-11-09 18:55:37
+ * @LastEditTime: 2020-11-10 12:11:58
 -->
 # 目录
 ## 必读系列  
@@ -13,7 +13,9 @@
 
 [寻找重复子树问题](./markdown/findDuplicateSubtrees.md)  
 
-[动态规划编辑距离](./markdown/minDistance.md)  
+[动态规划编辑距离](./markdown/minDistance.md)    
+
+[最长之递增子序列](./markdown/lengthOfLIS.md)
 
 ## 编码  
 
