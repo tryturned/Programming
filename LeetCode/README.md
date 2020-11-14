@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-28 11:37:00
- * @LastEditTime: 2020-11-10 12:11:58
+ * @LastEditTime: 2020-11-14 20:45:55
 -->
 # 目录
 ## 必读系列  
@@ -31,5 +31,6 @@
 
 [最长公共子序列](./code/lcs.py)
 
+[找到所有数组中消失的数字](./code/findDisappearedNumbers.py)  
 # 参考
 [labuladong的算法小抄](https://labuladong.gitbook.io/algo/)  
