@@ -1,14 +1,30 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-26 08:49:29
- * @LastEditTime: 2020-11-27 18:34:16
+ * @LastEditTime: 2020-11-27 18:49:10
 -->
-# 目录一览
-类 | 简介
-|:---:|:---:|
-[shared_ptr](./code/shared_ptr.md) | 共享式智能指针 shared_ptr 的实现
-[string](./code/string.md) | String 类的设计与实现
-[LRU 缓存](./code/lru.cpp) | LRU 缓存设计和实现
-[生产者消费者模型](./code/pc.cpp) | 生产者消费者模型 Demo
-## VSCode 使用指南
-- [VSCode 变量介绍：https://code.visualstudio.com/docs/editor/variables-reference](https://code.visualstudio.com/docs/editor/variables-reference)  
+## 数据结构
+- [智能指针设计和实现](./code/shared_ptr.md)  
+
+- [string 类设计和实现](./code/string.md)  
+
+- [LRU 缓存设计和实现](./code/lru.cpp)  
+
+- [生产者消费者设计和实现](./code/pc.cpp)   
+
+
+## 编程实践  
+- [区间相关系列问题](./LeetCode/markdown/区间问题.md)  
+
+- [滑动窗口系列问题](./LeetCode/markdown/SlidingWindow.md)
+
+- [动态规划背包问题](./LeetCode/markdown/knapsack.md)
+
+- [寻找重复子树问题](./LeetCode/markdown/findDuplicateSubtrees.md)  
+
+- [动态规划编辑距离](./LeetCode/markdown/minDistance.md)    
+
+- [最长之递增子序列](./LeetCode/markdown/lengthOfLIS.md)  
+
+## LeetCode  
+- [实践题目](./LeetCode/README.md)
