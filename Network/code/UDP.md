@@ -1,8 +1,8 @@
 <!--
- * @Autor: taobo
- * @Date: 2020-06-09 00:27:44
- * @LastEditTime: 2020-06-09 10:43:55
---> 
+ * @Author: taobo
+ * @Date: 2020-11-10 21:22:16
+ * @LastEditTime: 2020-11-27 19:32:35
+-->
 ### 1. QUIC 协议  
 Quic 全称 quick udp internet connection ，“快速 UDP 互联网连接”，是由 google 提出的使用 udp 进行多路并发传输的协议。  
 Quic 相比现在广泛应用的 http2+tcp+tls = https协议有如下优势：  
