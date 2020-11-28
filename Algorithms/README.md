@@ -1,7 +1,7 @@
 <!--
  * @Author: taobo
  * @Date: 2020-10-26 08:49:29
- * @LastEditTime: 2020-11-27 19:15:17
+ * @LastEditTime: 2020-11-28 20:31:07
 -->
 ## 数据结构
 - [智能指针设计和实现](./code/shared_ptr.md)  
@@ -19,4 +19,4 @@
 - [最长之递增子序列](./LeetCode/markdown/lengthOfLIS.md)  
 
 ## LeetCode  
-- [实践题目](./LeetCode/README.md)
+- [实践题目](./LeetCode/)
