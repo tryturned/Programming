@@ -26,11 +26,11 @@
 
 ## 4. 计算机网络
 ### 4.1 HTTP
-- [HTTPS与HTTP概述](./code/HTTPS与HTTP.md)
+- [HTTPS与HTTP概述](./Network/HTTPS与HTTP.md)
 
-- [HTTP状态码概述](./code/StatusCode.md)
+- [HTTP状态码概述](./Network/StatusCode.md)
 ### 4.2 TCP 与 UDP
-- [UDP 协议常见面试题](./code/UDP.md)
+- [UDP 协议常见面试题](./Network/UDP.md)
 
 ## 5. 其他
 [5.1 Git参考书籍: Pro Git 中文版](http://iissnan.com/progit/)    
