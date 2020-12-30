@@ -14,14 +14,14 @@
 <!-- end -->
 
 ## 1. 算法
-[1.1 必考算法题](./Algorithms)  
+- [1.1 必考算法题](./Algorithms)  
 
-[1.2 leetcode 必刷题](./Algorithms/LeetCode/)
+- [1.2 leetcode 必刷题](./Algorithms/LeetCode/)
 
 ## 2. MySQL
-[2.1 MySQL逻辑架构](./MySQL/mysql_arch.md)  
+- [2.1 MySQL逻辑架构](./MySQL/mysql_arch.md)  
 
-[2.2 MySQL存储引擎](./MySQL/mysql_engine.md)
+- [2.2 MySQL存储引擎](./MySQL/mysql_engine.md)
 ## 3. 操作系统
 
 ## 4. 计算机网络
@@ -33,8 +33,8 @@
 - [UDP 协议常见面试题](./Network/UDP.md)
 
 ## 5. 其他
-[5.1 Git参考书籍: Pro Git 中文版](http://iissnan.com/progit/)    
+- [5.1 Git参考书籍: Pro Git 中文版](http://iissnan.com/progit/)    
 
-[5.2 推荐的项目: Projects](./Projects.md)
+- [5.2 推荐的项目: Projects](./Projects.md)
 
 
