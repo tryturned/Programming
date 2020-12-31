@@ -16,6 +16,7 @@
 
 - [2.2 MySQL存储引擎](./MySQL/mysql_engine.md)
 
+- [2.3 MySQL基础原理](./MySQL/Basic_Principles_of_Mysql.md)
 ## 3. 操作系统
 
 - [3.0 计算机操作系统 - 概述](./OS/overview.md)
